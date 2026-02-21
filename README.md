@@ -1,2 +1,3 @@
-#Task-Tracker
-## This the demo repo for learning
+# Task-Tracker
+
+This the demo repo for learning.
